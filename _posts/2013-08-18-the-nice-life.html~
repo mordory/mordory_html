@@ -1,0 +1,8 @@
+---
+layout: default
+title: The nice life build with hands
+<h2>{{ the plan of build.title }}</h2>
+
+<p>begin now</p>
+
+<p>{{ page.date | date_to_string }}</p>
